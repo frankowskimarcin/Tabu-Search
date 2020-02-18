@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38bd0e1c-23b0-4af6-ad9e-fc9a3e83846e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X87pPEef0kngVUiMAuQZG1ydhW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="tabu.Main" />
+      <module name="Tabu-Search" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38bd0e1c-23b0-4af6-ad9e-fc9a3e83846e" name="Default Changelist" comment="" />
+      <created>1580416049710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580416049710</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Inspections" timestamp="1580424166389">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Inspections/0.-1080.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1580424166389" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580416133480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.-1080.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1580416133480" />
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580416128940">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.-1080.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1580416128940" />
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1580575336071">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.-1080.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1580575336071" />
+    <state width="1877" height="157" key="GridCell.Tab.0.bottom" timestamp="1580750894814">
+      <screen x="0" y="-1080" width="1920" height="1030" />
+    </state>
+    <state width="1877" height="157" key="GridCell.Tab.0.bottom/0.-1080.1920.1030/0.0.1536.824@0.-1080.1920.1030" timestamp="1580750894814" />
+    <state width="1493" height="115" key="GridCell.Tab.0.bottom/0.-1080.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1580663855635" />
+    <state width="1877" height="157" key="GridCell.Tab.0.center" timestamp="1580750894814">
+      <screen x="0" y="-1080" width="1920" height="1030" />
+    </state>
+    <state width="1877" height="157" key="GridCell.Tab.0.center/0.-1080.1920.1030/0.0.1536.824@0.-1080.1920.1030" timestamp="1580750894814" />
+    <state width="1493" height="115" key="GridCell.Tab.0.center/0.-1080.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1580663855635" />
+    <state width="1877" height="157" key="GridCell.Tab.0.left" timestamp="1580750894814">
+      <screen x="0" y="-1080" width="1920" height="1030" />
+    </state>
+    <state width="1877" height="157" key="GridCell.Tab.0.left/0.-1080.1920.1030/0.0.1536.824@0.-1080.1920.1030" timestamp="1580750894814" />
+    <state width="1493" height="115" key="GridCell.Tab.0.left/0.-1080.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1580663855634" />
+    <state width="1877" height="157" key="GridCell.Tab.0.right" timestamp="1580750894814">
+      <screen x="0" y="-1080" width="1920" height="1030" />
+    </state>
+    <state width="1877" height="157" key="GridCell.Tab.0.right/0.-1080.1920.1030/0.0.1536.824@0.-1080.1920.1030" timestamp="1580750894814" />
+    <state width="1493" height="115" key="GridCell.Tab.0.right/0.-1080.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1580663855635" />
+    <state x="581" y="-785" key="com.intellij.ide.util.TipDialog" timestamp="1581985559054">
+      <screen x="0" y="-1080" width="1920" height="1030" />
+    </state>
+    <state x="581" y="-785" key="com.intellij.ide.util.TipDialog/0.-1080.1920.1030/0.0.1536.824@0.-1080.1920.1030" timestamp="1581985559054" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.-1080.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1580736894071" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580819727626" />
+    <state x="499" y="167" key="extract.method.dialog" timestamp="1580481297293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="extract.method.dialog/0.-1080.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1580481297293" />
+  </component>
+</project>
